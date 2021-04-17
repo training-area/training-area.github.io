@@ -1469,7 +1469,7 @@ input, select, textarea {
 		-moz-user-select: none;
 		-ms-user-select: none;
 		-webkit-user-select: none;
-		background: #364050;
+		background: #364050 url("gallerie_assets_css_images_bg01.png");
 		bottom: -1em;
 		height: 5em;
 		left: 0;
