@@ -121,7 +121,8 @@ input, select, textarea {
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
 		color: #232323;
-		text-shadow: 2px 2px 0 orange;
+		text-shadow: 1px 1px 0 orange;
+		text-decoration: underline;
 	}
 
 	h2 a, h4 a, h5 a, h6 a {
@@ -1756,7 +1757,7 @@ input, select, textarea {
 			display: block;
 			width: 100%;
 			margin: 0 0 2em 0;
-			border: 8px double orange;
+			border: 4px double orange;
 			border-radius: 25px;
 		}
 
