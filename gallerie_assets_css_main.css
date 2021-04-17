@@ -163,7 +163,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #242629;
+		background: #364050;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -1469,7 +1469,7 @@ input, select, textarea {
 		-moz-user-select: none;
 		-ms-user-select: none;
 		-webkit-user-select: none;
-		background: #1f2224;
+		background: #364050;
 		bottom: -1em;
 		height: 5em;
 		left: 0;
